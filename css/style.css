@@ -1,0 +1,14 @@
+#nav-bar {
+	top: 0;
+	position: fixed;
+}
+@media (max-width: 900px) {
+	a {
+		text-decoration: none;
+	}
+}
+
+#tes {
+	display: flex;
+	flex: 1;
+}
